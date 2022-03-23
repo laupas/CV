@@ -1,3 +1,4 @@
+
 # Pascal Lauener
 
 > **Highly motivated and passionate Technology Architect (in my heart) and Senior Executive (in my mind) hybrid person with:**
@@ -41,15 +42,13 @@
 - Transformational Leadership (2022) – National Association of State Boards of Accountancy (NASBA) | Registry ID: #140940
 - Change Management Foundations (2022) – National Association of State Boards of Accountancy (NASBA) | Registry ID: #140940
 
-
 ## Languages
 - German: native
 - English: fluent
 
-## Professional experience
+# Professional experience
 
-
-### Livinguard AG
+## Livinguard AG
 **SVP Global IT / Signatory for CH and USA**  / 2020 - present
 
 > **Built the entire IT department / architecture / team from the ground up to support a global startup that started with 40 full-time equivalent employees and grew to 120 within a year. E2E Process integration / automation for E-Commerce channels, Supply-Chain, and Finance.**
@@ -70,7 +69,7 @@
    - Design and implementation of EDI system to connect several Business systems like ERP, CRM Accounting, E-Commerce.
 
 
-### Roche Diagnostics International Rotkreuz
+## Roche Diagnostics International Rotkreuz
 **DevOps Senior Project-Lead** / 05. 2019 - 08.2020
 
 > **Define and implement best practices for Release Management and Build Management for a Department with + 10 projects. Architecture and operation of a hybrid (OnPrem and Azure) scalable Software Release Platform. Automation of CSV validation process.**
@@ -93,7 +92,7 @@
   - Using of Slack, Azure functions, Azure Service-Bus, Docker and Rancher (K8s). 
 
 
-### Accenture for Roche Diagnostics International
+## Accenture for Roche Diagnostics International
 **Tech Architecture Delivery Manager** / 04. 2016 - 04. 2019
 
 **Consulting of several Enterprise Clients like Roche, Mercedes, UBS around DevOps Architecture improvements, Agile transformation, DevOps transformation.
@@ -118,7 +117,7 @@ Accenture internal:
 - Senior DevOps Trainer
 - Speaker at several conferences
 
-### Noser Engineering AG for Roche Diagnostics Rotkreuz
+## Noser Engineering AG for Roche Diagnostics Rotkreuz
 **Software Developer / Consultant**  / 09. 2012 - 04. 2016
 
 **Release Manager for a 300 FTE Development Project. Improving Release time from several days to 4h.**
@@ -133,7 +132,7 @@ Release / Configuration Management
 - Define software architectures
 
 
-### Soundmedia.ch
+## Soundmedia.ch
 
 **Head of IT / Software Developer** / 10. 2011 - 09. 2012
 
@@ -145,7 +144,7 @@ Release / Configuration Management
 -   Planning and maintenance of the complete IT infrastructure
 -   Responsible for IT strategy
     
-### Additional experience as Senior Software Developer at Ascentiv AG, Previon AG
+## Additional experience as Senior Software Developer at Ascentiv AG, Previon AG
 -   Development of applications with Silverlight/WPF /WCF in .Net C#
 -   Software architecture (UML)
 -   Database design (SQL, TSQL)
@@ -154,7 +153,7 @@ Release / Configuration Management
 -   Implementation of internal trainings
 -   Technical Manager for software projects
   
-###  Additional experience as Software Developer at AP-Schweiz Informatik, Infofon AG
+##  Additional experience as Software Developer at AP-Schweiz Informatik, Infofon AG
 -   Adaptation programming to ERP System P2Plus (Java / C#)
 -   Database design (SQL, TSQL)
 -   Technical Manager for software projects
@@ -163,10 +162,10 @@ Release / Configuration Management
 -   Database design (SQL, TSQL)
 -   Design, development and sub-project management of websites (ASP.Net)
  
-###  Additional experience as Telematiker / IT Specialist at Elektro Lüscher & Zanetti AG, TelComTech GmbH
+##  Additional experience as Telematiker / IT Specialist at Elektro Lüscher & Zanetti AG, TelComTech GmbH
 -   Commissioning and support of servers and customer PCs
 -   Project management and planning of telecommunication solutions
 -   EIB control systems
 -   Project management, commissioning and support of telecommunication solutions
 
-### Additional experience as Elektromonteur at ABB, CSB – Telecom, Elektro Fürst AG
+## Additional experience as Elektromonteur at ABB, CSB – Telecom, Elektro Fürst AG
