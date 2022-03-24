@@ -39,8 +39,8 @@
 - Apprenticeship Elektromonteur (Eidg. Fähigkeitsausweis)
 
 ## Courses
-- Transformational Leadership (2022) – National Association of State Boards of Accountancy (NASBA) | Registry ID: #140940
-- Change Management Foundations (2022) – National Association of State Boards of Accountancy (NASBA) | Registry ID: #140940
+- Transformational Leadership (2022) – National Association of State Boards of Accountancy (NASBA) / Registry ID: #140940
+- Change Management Foundations (2022) – National Association of State Boards of Accountancy (NASBA) / Registry ID: #140940
 
 ## Languages
 - German: native
